@@ -1,0 +1,28 @@
+{
+  "name": "beichen-homepage",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite-ssg build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bulma": "^1.0.0",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.2"
+  },
+  "devDependencies": {
+    "@iconify-json/fa6-brands": "^1.1.19",
+    "@iconify-json/ic": "^1.1.17",
+    "@unocss/reset": "^0.60.2",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "sass": "^1.77.1",
+    "typescript": "^5.2.2",
+    "unocss": "^0.60.2",
+    "vite": "^5.2.0",
+    "vite-ssg": "^0.23.7",
+    "vue-tsc": "^2.0.6"
+  }
+}

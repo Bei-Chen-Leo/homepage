@@ -1,0 +1,16 @@
+@charset "utf-8";
+@use "sass:color";
+@forward "bulma/sass/utilities";
+@forward "bulma/sass/base";
+@forward "bulma/sass/themes";
+@forward "bulma/sass/elements/icon";
+@forward "bulma/sass/elements/content";
+@forward "bulma/sass/components/tabs";
+@forward "bulma/sass/components/card";
+@forward "bulma/sass/layout/hero";
+@forward "bulma/sass/layout/footer";
+
+body {
+  font-family: "Noto Sans", "Noto Sans SC", sans-serif;
+  font-display: optional;
+}
