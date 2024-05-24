@@ -73,13 +73,6 @@ const linkList = [
       "http://q.qlogo.cn/headimg_dl?dst_uin=530060699&spec=640&img_type=jpg",
   },
   {
-    name: "北斗星移网",
-    description:
-      "北斗星移，提供即时通讯平台、在线聊天室、翻译、网页快照获取、地图、数字文物库阅览、音乐播放、在线下棋等服务。",
-    link: "https://www.beidouxingyi.cn",
-    avatar: "https://www.beidouxingyi.cn/favicon",
-  },
-  {
     name: "ecraft 的博客",
     description: "本站使用 WordPress 强劲驱动，欢迎访问！",
     link: "https://www.ecraft2008.top",
