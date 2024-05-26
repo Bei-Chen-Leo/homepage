@@ -58,6 +58,12 @@
                 <span>音乐播放器</span>
               </a>
             </li>
+            <li>
+              <a href="https://www.beichen.icu/latest">
+                <span class="icon i-ic-baseline-book" />
+                <span>最新视频</span>
+              </a>
+            </li>
           </ul>
         </div>
       </nav>
