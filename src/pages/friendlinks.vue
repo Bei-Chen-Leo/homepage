@@ -22,7 +22,7 @@
       <ul>
         <li>标题：北尘的小窝</li>
         <li>
-          图标：<a href="https://raw.githubusercontent.com/Bei-Chen-Leo/homepage/main/public/images/Favicon.webp">图标.webp</a>
+          图标：<a href="https://raw.githubusercontent.com/Bei-Chen-Leo/homepage/main/public/images/Favicon.webp">https://raw.githubusercontent.com/Bei-Chen-Leo/homepage/main/public/images/Favicon.webp</a>
         </li>
         <li>
           链接：<a href="https://www.beichen.icu">https://www.beichen.icu</a>
