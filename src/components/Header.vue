@@ -59,7 +59,8 @@
               </a>
             </li>
             <li>
-              <a href="https://www.beichen.icu/latest">
+               <li :class="{ 'is-active': route.meta.islatest }">
+              <RouterLink to="/latest">
                 <span class="icon i-ic-baseline-book" />
                 <span>最新视频</span>
               </a>
