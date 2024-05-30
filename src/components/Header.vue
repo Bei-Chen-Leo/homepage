@@ -59,7 +59,7 @@
               </a>
             </li>
             <li>
-               <li :class="{ 'is-active': route.meta.islatest }">
+               <li :class="{ 'is-active': route.meta.isLatest }">
               <RouterLink to="/latest">
                 <span class="icon i-ic-baseline-book" />
                 <span>最新视频</span>
