@@ -2,7 +2,6 @@ import Index from "./pages/index.vue";
 import FriendLinks from "./pages/friendlinks.vue";
 import Socials from "./pages/socials.vue";
 import Donate from "./pages/donate.vue";
-import Latest from "./pages/latest.vue
 
 const routes = [
   {
@@ -24,11 +23,6 @@ const routes = [
     path: "/donate",
     component: Donate,
     meta: { isDonate: true },
-  },
-    {
-    path: "/latest",
-    component: Latest,
-    meta: { isLatest: true },
   },
 ];
 
