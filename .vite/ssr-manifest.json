@@ -28,6 +28,8 @@
   "src/pages/donate.vue": [],
   "src/pages/friendlinks.vue?vue&type=script&setup=true&lang.ts": [],
   "src/pages/index.vue": [],
+  "src/pages/latest.vue": [],
+  "src/pages/latest.vue?vue&type=style&index=0&lang.css": [],
   "src/pages/socials.vue": [],
   "src/routes.ts": [],
   "src/style.scss": []
