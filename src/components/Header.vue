@@ -58,12 +58,11 @@
                 <span>音乐播放器</span>
               </a>
             </li>
-            <li>
-               <li :class="{ 'is-active': route.meta.isLatest }">
+            <li :class="{ 'is-active': route.meta.isLatest }">
               <RouterLink to="/latest">
                 <span class="icon i-ic-baseline-book" />
                 <span>最新视频</span>
-              </a>
+              </RouterLink>
             </li>
           </ul>
         </div>
