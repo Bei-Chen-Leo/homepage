@@ -5,13 +5,11 @@
 
     <div class="video-container">
       <p class="video-title">最新视频Ⅰ</p>
-      <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1454872763&bvid=BV1Ji421Q7a5&cid=1550778774&p=1" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
     </div>
-
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1755404387&bvid=BV144421X7hG&cid=1573207579&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
     <div class="video-container">
       <p class="video-title">最新视频Ⅱ</p>
-      <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1854568191&bvid=BV1Rs421A7SZ&cid=1545834217&p=1" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
-    </div>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1005453005&bvid=BV1Kx4y1J7qm&cid=1571250865&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>    </div>
   </div>
 </template>
 
