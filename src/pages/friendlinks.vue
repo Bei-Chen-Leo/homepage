@@ -84,6 +84,12 @@ const linkList = [
     link: "https://www.gxres.net",
     avatar: "https://library.gxres.net/images/icons/avatar.webp",
   },
+  {
+    name: "whycf的小站",
+    description: "whycf | 官方网站",
+    link: "https://whycf.top",
+    avatar: "/images/whycf.png",
+};
 ];
 
 function confirmNavigation(url: string) {
