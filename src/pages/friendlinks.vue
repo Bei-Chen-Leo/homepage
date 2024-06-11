@@ -1,42 +1,52 @@
 <template>
   <section class="space-y-4">
-  <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-    <template v-for="link in linkList" :key="link">
-      <button class="card w-full h-full" @click="() => confirmNavigation(link.link)">
-        <div class="card-content space-y-4">
-          <div class="flex justify-center">
-            <img class="rounded-full" width="96" height="96" :src="link.avatar" :alt="`${link.name} 的头像`" />
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+      <template v-for="link in linkList" :key="link.link">
+        <button class="card w-full h-full" @click="confirmNavigation(link.link)">
+          <div class="card-content space-y-4">
+            <div class="flex justify-center">
+              <img
+                class="rounded-full"
+                width="96"
+                height="96"
+                :src="link.avatar"
+                :alt="`${link.name} 的头像`"
+              />
+            </div>
+            <div class="text-center space-y-2">
+              <div class="text-2xl font-semibold">{{ link.name }}</div>
+              <div class="truncate">{{ link.description }}</div>
+            </div>
           </div>
-          <div class="text-center space-y-2">
-            <div class="text-2xl font-semibold">{{ link.name }}</div>
-            <div class="truncate">{{ link.description }}</div>
-          </div>
-        </div>
-      </button>
-    </template>
-  </div>
-  <div class="card">
-    <div class="card-content content">
-      <div class="text-2xl font-semibold">交换友链？</div>
-      <p>请先将我的网站添加到你的友链列表~</p>
-      <ul>
-        <li>标题：北尘的小窝</li>
-        <li>
-          图标：<a href="https://www.beichen.icu/images/Favicon.webp">https://www.beichen.icu/images/Favicon.webp</a>
-        </li>
-        <li>
-          链接：<a href="https://www.beichen.icu">https://www.beichen.icu</a>
-        </li>
-        <li>
-          简介：青春年少，心怀梦想，却发现越是拼命追逐，渴望的爱情却似乎越远。
-        </li>
-      </ul>
-      <p>
-        添加好了的话，就 <RouterLink to="/socials">联系我</RouterLink> 添加吧！
-      </p>
+        </button>
+      </template>
     </div>
-  </div>
-</section>
+    <div class="card">
+      <div class="card-content content">
+        <div class="text-2xl font-semibold">交换友链？</div>
+        <p>请先将我的网站添加到你的友链列表~</p>
+        <ul>
+          <li>标题：北尘的小窝</li>
+          <li>
+            图标：
+            <a href="https://www.beichen.icu/images/Favicon.webp"
+              >https://www.beichen.icu/images/Favicon.webp</a
+            >
+          </li>
+          <li>
+            链接：
+            <a href="https://www.beichen.icu">https://www.beichen.icu</a>
+          </li>
+          <li>
+            简介：青春年少，心怀梦想，却发现越是拼命追逐，渴望的爱情却似乎越远。
+          </li>
+        </ul>
+        <p>
+          添加好了的话，就 <RouterLink to="/socials">联系我</RouterLink> 添加吧！
+        </p>
+      </div>
+    </div>
+  </section>
 </template>
 
 <script lang="ts" setup>
@@ -69,8 +79,7 @@ const linkList = [
     name: "新毛博客",
     description: "喵喵喵！",
     link: "https://blog.xmb505.top",
-    avatar:
-      "http://q.qlogo.cn/headimg_dl?dst_uin=530060699&spec=640&img_type=jpg",
+    avatar: "http://q.qlogo.cn/headimg_dl?dst_uin=530060699&spec=640&img_type=jpg",
   },
   {
     name: "ecraft 的博客",
@@ -89,7 +98,7 @@ const linkList = [
     description: "whycf | 官方网站",
     link: "https://whycf.top",
     avatar: "/images/whycf.png",
-};
+  },
 ];
 
 function confirmNavigation(url: string) {
