@@ -34,6 +34,11 @@
                 <span>友链</span>
               </RouterLink>
             </li>
+              <a href="https://kuma.beichen.icu">
+                <span class="icon i-ic-baseline-cloud" />
+                <span>Kuma</span>
+              </a>
+            </li>
             <li :class="{ 'is-active': route.meta.isSocials }">
               <RouterLink to="/socials">
                 <span class="icon i-ic-twotone-connect-without-contact" />
