@@ -33,7 +33,6 @@
                 <span class="icon i-ic-baseline-link" />
                 <span>友链</span>
               </RouterLink>
-            </li>
               <a href="https://kuma.beichen.icu">
                 <span class="icon i-ic-baseline-cloud" />
                 <span>Kuma</span>
