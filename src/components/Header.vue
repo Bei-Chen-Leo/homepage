@@ -47,7 +47,7 @@
               </RouterLink>
             </li>
             <li>
-              <a href="https://alist.beichen.icu">
+              <a href="https://alist2.beichen.icu">
                 <span class="icon i-ic-baseline-cloud" />
                 <span>Alist</span>
               </a>
