@@ -113,6 +113,12 @@ const linkList = [
     link: "https://bugcraft.org",
     avatar: "https://bugcraft.org/favicon.png",
   },
+  {
+    name: "Orange's",
+    description: "Enjoy freedom.",
+    link: "https://orangestd.cn",
+    avatar: "https://orangestd.cn/images/avatar.png",
+  },
 ];
 
 function confirmNavigation(url: string) {
