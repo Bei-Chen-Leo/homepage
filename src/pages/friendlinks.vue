@@ -99,6 +99,12 @@ const linkList = [
     link: "https://whycf.top",
     avatar: "/images/whycf.png",
   },
+  {
+    name: "BugCraft",
+    description: "There are many bugs to play.",
+    link: "https://bugcraft.org",
+    avatar: "https://bugcraft.org/favicon.png",
+  },
 ];
 
 function confirmNavigation(url: string) {
