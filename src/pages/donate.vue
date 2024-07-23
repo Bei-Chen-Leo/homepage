@@ -5,9 +5,6 @@
       <img src="/images/VX.png">
     </div>
     <div class="shadow h-full rounded-lg">
-      <img src="/images/hr.png">
-    </div>
-    <div class="shadow h-full rounded-lg">
       <img src="/images/QQ.png">
     </div>
     <div class="shadow h-full rounded-lg">
