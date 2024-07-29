@@ -119,6 +119,12 @@ const linkList = [
     link: "https://orangestd.cn",
     avatar: "https://orangestd.cn/images/avatar.png",
   },
+  {
+    name: "EDream的小破站",
+    description: "人生没有绝对精彩，雨后或许没有彩虹，但后退一步确是失败。坚持不懈，持之以恒，奋力拼搏，成就梦想。青春是使用意志和拼搏酿成的琼浆。虽然不能变过去，但是可以改变将来。还记得最初的梦想吗？那就努力吧。",
+    link: "https://blog.edmc.cn/",
+    avatar: "https://blog.edmc.cn/upload/fillet-ElectricityDream.png",
+  },
 ];
 
 function confirmNavigation(url: string) {
