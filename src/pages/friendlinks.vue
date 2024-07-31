@@ -125,6 +125,12 @@ const linkList = [
     link: "https://blog.edmc.cn/",
     avatar: "https://blog.edmc.cn/upload/fillet-ElectricityDream.png",
   },
+  {
+    name: "梦屿 - Moeuu",
+    description: "这个人没有填简介啊~~~",
+    link: "https://moeuu.cn/",
+    avatar: "https://blog.hoshiroko.com/images/friendlinks-moeuu.jpg",
+  },
 ];
 
 function confirmNavigation(url: string) {
