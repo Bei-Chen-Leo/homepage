@@ -60,9 +60,9 @@
 <script lang="ts" setup>
 const linkList = [
   {
-    name: "野原新之助的 GPT 镜像站",
-    description: "AI 助手，随时随地解答你的问题",
-    link: "https://www.bilibili.com/video/BV1va411w7aM/",
+    name: "野原灌水屋",
+    description: "野原新之助的博客，欢迎访问",
+    link: "https://blog.yyah.top",
     avatar: "/images/yeyuanxinzhizhu.jpg",
   },
   {
