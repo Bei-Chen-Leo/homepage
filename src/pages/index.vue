@@ -16,8 +16,6 @@
   <ul>
     <li>GitHub</li>
     <li>Cloudflare</li>
-    <li>ChatGLM</li>
-    <li>ChatGPT</li>
   </ul>
 </template>
 
