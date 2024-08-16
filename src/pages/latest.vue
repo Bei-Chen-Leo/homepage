@@ -21,19 +21,20 @@
 .latest-video {
   text-align: center;
   padding: 20px;
-  background-color: #f9f9f9;
+  background-color: #121212;
+  color: #e0e0e0;
 }
 
 .title {
   font-size: 2em;
   margin-bottom: 10px;
-  color: #333;
+  color: #ffffff;
 }
 
 .subtitle {
   font-size: 1.5em;
   margin-bottom: 20px;
-  color: #666;
+  color: #bbbbbb;
 }
 
 .video-grid {
@@ -45,9 +46,9 @@
 }
 
 .video-container {
-  background: white;
+  background: #1e1e1e;
   border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
   padding: 15px;
 }
 
@@ -55,6 +56,6 @@
   font-weight: bold;
   margin-bottom: 10px;
   font-size: 1.2em;
-  color: #555;
+  color: #cccccc;
 }
 </style>
