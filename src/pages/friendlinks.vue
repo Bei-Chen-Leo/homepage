@@ -131,6 +131,12 @@ const linkList = [
     link: "https://moeuu.cn/",
     avatar: "https://blog.hoshiroko.com/images/friendlinks-moeuu.jpg",
   },
+  {
+    name: "ZHYxulei",
+    description: "只有当不幸真的到来时，我们才会怀念和渴望那些逝去的美好时光",
+    link: "https://zhyxulei.top/",
+    avatar: "https://q1.qlogo.cn/g?b=qq&nk=2742291286&s=100",
+  },
 ];
 
 function confirmNavigation(url: string) {
