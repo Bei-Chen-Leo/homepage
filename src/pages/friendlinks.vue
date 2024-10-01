@@ -68,8 +68,8 @@ const linkList = [
   {
     name: "Neokoni's home",
     description: "Follow that star",
-    link: "https://www.neokoni.moe",
-    avatar: "https://avatars.githubusercontent.com/u/90206655",
+    link: "https://www.neokoni.ink",
+    avatar: "https://res.neokoni.ink/neokoni/svg/favicon.svg",
   },
   {
     name: "岁月的小网站",
