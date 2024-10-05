@@ -92,7 +92,7 @@ const linkList = [
   {
     name: "ecraft 的博客",
     description: "本站使用 WordPress 强劲驱动，欢迎访问！",
-    link: "https://www.ecraft2008.top",
+    link: "https://iecraft.top",
     avatar: "/images/ecraft.jpg",
   },
   {
