@@ -111,7 +111,7 @@ const linkList = [
     name: "BugCraft",
     description: "There are many bugs to play.",
     link: "https://bugcraft.org",
-    avatar: "https://bugcraft.org/favicon.png",
+    avatar: "https://bugcraft.org/upload/favicon.svg",
   },
   {
     name: "Orange's",
