@@ -38,8 +38,7 @@
           <li>
             图标：
             <a href="https://www.beichen.icu/images/Favicon.webp"
-              >https://www.beichen.icu/images/Favicon.webp</a
-            >
+              >https://www.beichen.icu/images/Favicon.webp</a>
           </li>
           <li>
             链接：
@@ -136,6 +135,12 @@ const linkList = [
     description: "只有当不幸真的到来时，我们才会怀念和渴望那些逝去的美好时光",
     link: "https://zhyxulei.top/",
     avatar: "https://q1.qlogo.cn/g?b=qq&nk=2742291286&s=100",
+  },
+{
+    name: "Suancs attic",
+    description: "我们的征途是星辰大海",
+    link: "https://blog.ancs.top",
+    avatar: "https://pic.ancs.top/uploads/2023/11/19/6559f70c0c560.jpg",
   },
 ];
 
