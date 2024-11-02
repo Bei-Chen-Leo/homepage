@@ -142,6 +142,12 @@ const linkList = [
     link: "https://blog.ancs.top",
     avatar: "https://pic.ancs.top/uploads/2023/11/19/6559f70c0c560.jpg",
   },
+{
+    name: "MCJPG社区",
+    description: "#",
+    link: "https://com.mcjpg.org",
+    avatar: "https://mcjpg.org/logo.png",
+  },
 ];
 
 function confirmNavigation(url: string) {
