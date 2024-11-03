@@ -143,10 +143,10 @@ const linkList = [
     avatar: "https://pic.ancs.top/uploads/2023/11/19/6559f70c0c560.jpg",
   },
 {
-    name: "MCJPG社区",
+    name: "#",
     description: "#",
-    link: "https://com.mcjpg.org",
-    avatar: "https://mcjpg.org/logo.png",
+    link: "#",
+    avatar: "#",
   },
 ];
 
