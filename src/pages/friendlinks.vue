@@ -65,9 +65,9 @@ const linkList = [
     avatar: "/images/yeyuanxinzhizhu.jpg",
   },
   {
-    name: "Neokoni's home",
+    name: "Neokoni's Blog",
     description: "Follow that star",
-    link: "https://www.neokoni.ink",
+    link: "https://blog.neokoni.ink/",
     avatar: "https://res.neokoni.ink/neokoni/svg/favicon.svg",
   },
   {
