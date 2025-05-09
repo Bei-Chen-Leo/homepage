@@ -107,12 +107,6 @@ const linkList = [
     avatar: "/images/whycf.png",
   },
   {
-    name: "BugCraft",
-    description: "There are many bugs to play.",
-    link: "https://bugcraft.org",
-    avatar: "https://bugcraft.org/upload/favicon.svg",
-  },
-  {
     name: "Orange's",
     description: "Enjoy freedom.",
     link: "https://orangestd.cn",
